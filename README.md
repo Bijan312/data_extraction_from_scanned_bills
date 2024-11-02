@@ -9,4 +9,4 @@ pytesseract is a Python wrapper for Google's Tesseract-OCR engine, which is an o
 * **Integration with Pillow:** It can be used with the Pillow library (Python Imaging Library, or PIL) to preprocess images before OCR, which often improves recognition accuracy.
 * **PDF Handling:** pytesseract can convert PDF files to images and then extract text, but it requires additional libraries like pdf2image.
 
-The general process of visualization depicted within the jupyter-notebook
+The general process of data mining and visualization depicted within the jupyter-notebooks.
