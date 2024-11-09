@@ -11,7 +11,7 @@ Using python, I tried to extract electricity consumption data, which is in Persi
 <br/>
 The image shows a sample of the Region Of Interest on each bill.
 <br/>
-![alt text ROI](https://github.com/Bijan312/data_extraction_from_scanned_bills/blob/main/sampled_area.png?raw=true "Title")
+![ROI Instance](https://github.com/Bijan312/data_extraction_from_scanned_bills/blob/main/sampled_area.png "ROI Instance")
 Consumptions are normalized based on the total energy used every day, and costs are normalized based on the total energy used in the period.
 <br/>
 The process of data mining and visualization depicted within the jupyter-notebooks.
