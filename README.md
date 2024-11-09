@@ -9,6 +9,9 @@ Using python, I tried to extract electricity consumption data, which is in Persi
 * **Integration with Pillow:** It can be used with the Pillow library (Python Imaging Library, or PIL) to preprocess images before OCR, which often improves recognition accuracy.
 * **PDF Handling:** pytesseract can convert PDF files to images and then extract text, but it requires additional libraries like pdf2image.
 <br/>
+The image shows a sample of the Region Of Interest on each bill.
+![alt text ROI](https://github.com/Bijan312/data_extraction_from_scanned_bills/blob/main/sampled_area.png)
 Consumptions are normalized based on the total energy used every day, and costs are normalized based on the total energy used in the period.
 <br/>
 The process of data mining and visualization depicted within the jupyter-notebooks.
+
